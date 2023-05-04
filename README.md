@@ -7,4 +7,4 @@ UploadImagesUsecase enables the vendor to upload some images of the product on a
 GetImagesUsecase can be used by a user who is visiting the product page and wants to see it's images.
 
 ![Usecases Diagram](docs/Usecases.PNG)
-![System Design Diagram](docs/systemDesign.PNG)
+![System Design Diagram](docs/systemDesign.png)
